@@ -1,0 +1,13 @@
+filename	avg	med	avg	min	max
+scala/ManyClasses-00001.scala	1644.98	1649.26	1616.49	1667.51
+scala/ManyClasses-00002.scala	1679.71	1662.24	1626.34	1796.77
+scala/ManyClasses-00004.scala	1705.54	1683.81	1664.95	1848.17
+scala/ManyClasses-00008.scala	1757.37	1762.23	1693.25	1875.22
+scala/ManyClasses-00016.scala	1789.01	1780.02	1752.08	1870.18
+scala/ManyClasses-00032.scala	1874.25	1859.68	1843.11	1978.65
+scala/ManyClasses-00064.scala	2054.73	2044.02	2029.35	2103.6
+scala/ManyClasses-00128.scala	2414.55	2417.66	2377.03	2433.65
+scala/ManyClasses-00256.scala	2952.99	2951.63	2921.65	3032.57
+scala/ManyClasses-00512.scala	3955.47	3943.32	3930.94	4030.18
+scala/ManyClasses-01024.scala	5899.44	5856.96	5473.46	6752.18
+scala/ManyClasses-02048.scala	8029.75	7701.71	7459.56	9059.86

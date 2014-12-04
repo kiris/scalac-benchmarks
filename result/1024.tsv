@@ -1,0 +1,14 @@
+filename	avg	med	avg	min	max
+scala/ManyAnonymousClasses-01024.scala	9921.15	9940.17	9596.17	10141.7
+scala/ManyBlackBoxMacros-01024.scala	29932.2	29584.7	28945.2	31412.7
+scala/ManyClasses-01024.scala	5958.28	5844.85	5485.77	7593.25
+scala/ManyImplicitConversions-01024.scala	10378.2	10287.1	10107.6	10701.8
+scala/ManyImplicitParameters-01024.scala	8145.1	7958.91	7569	9327.52
+scala/ManyImplicitValues-01024.scala	7572.1	7634.22	7105.59	8141.71
+scala/ManyMaps-01024.scala	12560.6	12545	11927.7	13636.5
+scala/ManyMethods-01024.scala	3778.91	3770.98	3677.24	3959.54
+scala/ManyObjects-01024.scala	6480.89	6458.86	5913.11	7135.61
+scala/ManyTraitsMixin-01024.scala	5211.51	5152.26	4804.05	6110.88
+scala/ManyTraitsWithTheMethodMixin-01024.scala	9694.54	9529.42	8902.19	10820.5
+scala/ManyTypeParams-01024.scala	2318.13	2254.77	2232.33	2831.06
+scala/ManyWhiteBoxMacros-01024.scala	33824.8	32609.1	28710.5	39951.5

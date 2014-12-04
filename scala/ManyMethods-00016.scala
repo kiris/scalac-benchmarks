@@ -1,0 +1,18 @@
+class ManyMethods16 {
+def method1 = println("1")
+def method2 = println("2")
+def method3 = println("3")
+def method4 = println("4")
+def method5 = println("5")
+def method6 = println("6")
+def method7 = println("7")
+def method8 = println("8")
+def method9 = println("9")
+def method10 = println("10")
+def method11 = println("11")
+def method12 = println("12")
+def method13 = println("13")
+def method14 = println("14")
+def method15 = println("15")
+def method16 = println("16")
+}

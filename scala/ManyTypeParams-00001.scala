@@ -1,0 +1,1 @@
+class ManyTypeParams1[T1]
