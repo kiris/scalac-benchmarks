@@ -14,14 +14,14 @@ java -version
 echo "JAVA_OPTS=$JAVA_OPTS" >&2
 echo >&2
 
-svm -s $SCALA_VERSION
+svm -s $SCALA_VERSION >&2
 scalac -version
 echo >&2
 
 echo "start benchmarks." >&2
 echo >&2
 
-echo -e 'filename\tavg\tmed\tavg\tmin\tmax'
+echo -e 'filename\tavg\tmed\tmin\tmax'
 find scala -name $PATTERN -type f | while read filename; do
     result=`avgtime -r 10 ${SCALA_COMPILER} -d ${TARGET_DIR} ${filename}`
     med=`echo ${result} | grep "Median time" | sed -e "s/.*: //"`
@@ -32,4 +32,4 @@ find scala -name $PATTERN -type f | while read filename; do
 done
 
 
-echo "finish benchmarks."
+echo "finish benchmarks." >&2

@@ -1,5 +1,5 @@
 
-FACT = 11
+FACT = 12
 
 def loop_str(str, loop)
   (1..loop).map { |i|
